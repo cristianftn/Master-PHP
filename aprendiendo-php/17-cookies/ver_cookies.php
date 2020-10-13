@@ -16,7 +16,6 @@ if(isset($_COOKIE['unAno'])){
 
 echo "<br>";
 
-
 ?>
 
 <a href="crear_cookies.php">crear cookies</a>
